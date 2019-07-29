@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\KTL.Core\KTL.Core.csproj" />
+    <ProjectReference Include="..\KTC.Core\KTC.Core.csproj" />
   </ItemGroup>
 
 </Project>
